@@ -5,15 +5,16 @@
 
 class Graphics;
 
-class Game{
+class Game {
 public:
-	Game();
-	~Game();
+  Game();
+  ~Game();
+
 private:
-	void gameLoop();
-	void draw(Graphics &graphics);
-	void update(float elapsedTime);
-	Player _player;
+  void gameLoop();
+  void draw(Graphics &graphics);
+  void update(float elapsedTime);
+  Player _player;
 };
 
 #endif
