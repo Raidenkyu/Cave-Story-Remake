@@ -1,6 +1,0 @@
-﻿  animatedsprite.cpp
-c:\users\joao-\documents\projectos pessoais\cave story remake\cave story remake\animatedsprite.cpp(39): warning C4018: '<': signed/unsigned mismatch
-c:\users\joao-\documents\projectos pessoais\cave story remake\cave story remake\animatedsprite.cpp(59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-c:\users\joao-\documents\projectos pessoais\cave story remake\cave story remake\animatedsprite.cpp(60): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-  Cave Story Remake.vcxproj -> C:\Users\joao-\Documents\Projectos Pessoais\Cave Story Remake\Debug\Cave Story Remake.exe
-  Cave Story Remake.vcxproj -> C:\Users\joao-\Documents\Projectos Pessoais\Cave Story Remake\Debug\Cave Story Remake.pdb (Full PDB)
