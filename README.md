@@ -1,7 +1,7 @@
 # Cave Story Remake
-A remake of the famous indie game Cave story made in Visual Studio, with C++ and with SDL lib
+A remake of the famous indie game Cave story made in a custom build system based in CMake, with C++ and with SDL lib
 
-At the actual state, the game only has a character that moves with input from the keyboard. It's possible that I won't complete the project, because the major goals, which are learning how to make multimedia programs,were already accomlplished.
+At the actual state, the game only has a character that moves with input from the keyboard. It's possible that I won't complete the project, because the major goals, which are learning how to make multimedia programs,were already accomplished.
 
 
 ## Setup the project
